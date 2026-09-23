@@ -1,0 +1,7 @@
+duckdb==1.5.5
+luigi==3.8.1
+streamlit==1.64.0
+plotly==7.1.0
+pandas>=2.2
+catboost==1.2.10
+scikit-learn==1.9.1

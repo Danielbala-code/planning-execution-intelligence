@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+.luigi/
+data/raw/github_*.json

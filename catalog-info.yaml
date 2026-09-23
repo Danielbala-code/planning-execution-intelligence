@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: planning-execution-intelligence
+  description: Decision-support data product for adaptive capacity and quality planning.
+  annotations:
+    github.com/project-slug: example/planning-execution-intelligence
+spec:
+  type: data-product
+  lifecycle: experimental
+  owner: group:portfolio-insights
+  system: planning-and-execution
