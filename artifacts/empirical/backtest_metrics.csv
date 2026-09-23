@@ -1,0 +1,3 @@
+model,rows,positive_rate,roc_auc,brier_score,precision_at_20
+logistic_regression_baseline,238,0.3739,0.7736,0.2023,0.85
+catboost_primary,238,0.3739,0.7502,0.1965,0.8

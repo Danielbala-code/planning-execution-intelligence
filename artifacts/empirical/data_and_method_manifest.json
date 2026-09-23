@@ -1,0 +1,10 @@
+{
+  "source": "Public GitHub Search API snapshots from spotify/luigi and backstage/backstage",
+  "sample_note": "Capped at the first 100 issues and first 100 pull requests per repository-year where available.",
+  "as_of_rule": "Only creation-time fields and prior repository history available before created_at are features.",
+  "label": "workflow_risk_30d = work item was not closed within 30 days of creation.",
+  "train_period": "2022-01-01 to 2024-12-31",
+  "held_out_test_period": "2025-01-01 to 2025-12-31",
+  "train_rows": 795,
+  "test_rows": 238
+}
